@@ -3,7 +3,7 @@ date: 2013-01-01 00:00:00
 layout: secret
 published: true
 
-title: Finding the Developer Tools
+title: Encontrar las herramientas para desarrolladores
 order: 00-00100
 browsers:
 - chrome
@@ -19,12 +19,12 @@ tags:
 - secret
 ---
 
-<p>If Developer Tools are a complete secret to you, you may have had difficulty finding them!</p>
+<p>Si las herramientas para desarrolladores son un completo secreto para tí, puede que tengas dificultades para encontrarlas!</p>
 
-<p>As well as a menu shortcut, you can access the Developer Tools easily either pressing "F12" in Windows or "Cmd" ⌘, "Option" ⌥ and "I" on the Mac, or by right clicking on the page and selecting “Inspect Element”.
+<p>Además de a través del menú de tu navegador, puedes acceder fácilmente a las herramientas para desarrolladores pulsando "F12" en Windows o "Cmd" ⌘, "Option" ⌥ e "I" en Mac, o haciendo clic derecho en una página y seleccionando "Inspeccionar elemento"</p>
 
-<p class="safari">In Safari, you will need to enable the Developer Tools by checking the option in Preferences &gt; Advanced &gt; Show Develop Menu first.</p>
+<p class="safari">En Safari, es necesario habilitar las herramientas para desarrolladores activando la opción en Preferencias &gt; Avanzadas &gt; Mostrar Menu Desarrollo</p>
 
-<p class="opera">In Opera, you will need to enable Developer Tools by checking the option in More Tools &gt; Enable developer tools.</p>
+<p class="opera">En Opera, es necesario habilitar las herramientas para desarrolladores en Más herramientas &gt; Habilitar herramientas para desarrolladores</p>
 
-<p class="firebug">Since Firebug is an extension for Firefox, you will need to install the add on from <a href="http://getfirebug.com/">http://getfirebug.com/</a></p>
+<p class="firebug">Dado que Firebug es una extension de Firefox, es necesario instalarla desde <a href="http://getfirebug.com/">http://getfirebug.com/</a></p>
